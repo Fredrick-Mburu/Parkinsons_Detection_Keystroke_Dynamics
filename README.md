@@ -1,7 +1,7 @@
 # Parkinson's Disease Detection Through Keystroke Dynamics
 
 ## Project Description
-This machine learning project aims to detect Parkinson's Disease (PD) by analyzing keystroke dynamics. It's part of an initiative to explore non-invasive and accessible diagnostic tools for neurological conditions.
+This machine learning project aims to detect Early Parkinson's Disease (PD) by analyzing keystroke dynamics. It's part of an initiative to explore non-invasive and accessible diagnostic tools for neurological conditions.
 
 ## Overview
 We use a Random Forest classifier to distinguish between individuals with and without PD based on their typing patterns. The data encompasses keystroke timing information from typing sessions, labeled according to the presence of PD.
